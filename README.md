@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/marusinaann/RxJS-page/actions/workflows/web.yml/badge.svg)
 
-https://unker.github.io/ahj-homeworks-rxjs-web/
+https://marusinaann.github.io/RxJS-page/
 
 
 Правила сдачи задания:
